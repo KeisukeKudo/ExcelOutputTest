@@ -8,7 +8,7 @@
 6,000,200セル    
 
 # 結果
-作成時間: 209,339ms(4分弱)  
+作成時間: 209,339ms(3分半くらい)  
 ![result1](https://github.com/KeisukeKudo/ImageStorage/blob/master/ExcelOutputTestResult1.png)  
 
 作成Excelファイル  
